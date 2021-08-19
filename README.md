@@ -1,5 +1,5 @@
 Mi nombre es Carlos J. Contrera.
-Soy desarrollador COBOL, JavaScript en Node.js.
+Soy desarrollador COBOL, JavaScript y Node.js.
 
 <!---
 carloscba007/carloscba007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
